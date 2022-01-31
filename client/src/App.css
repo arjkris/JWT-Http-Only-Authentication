@@ -1,0 +1,9 @@
+.app__login{
+    display: flex;
+    flex-direction: column;
+}
+
+.app__dashBoard{
+    display: flex;
+    flex-direction: column;
+}
